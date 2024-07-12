@@ -31,5 +31,7 @@ Python
 ## Week 4 & Week 5
 7-1 to 7-12
 Record the data
+
 CNN training
+
 Thesis methods discussion and brainstrom
