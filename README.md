@@ -29,9 +29,32 @@ Image data standardlization
 Python
 
 ## Week 4 & Week 5
+
 7-1 to 7-12
+
 Record the data
 
 CNN training
 
 Thesis methods discussion and brainstrom
+
+## Week 6 & Week 7
+
+7-15 to 7-26
+
+Recording video with high speed camera
+
+Analyse the video using opencv to to find the viberation
+
+ansys simulation setting
+
+## Week 8 & Week 9
+
+7-29 to 8-10
+
+ansys simulation
+
+run the tactip training model and test its processing speed
+
+
+
